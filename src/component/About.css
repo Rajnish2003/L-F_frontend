@@ -1,0 +1,36 @@
+.about{
+    padding: 1rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.abox{
+    background-image: linear-gradient(to bottom, #f1ccf3, #d1dbff, #afeaff, #a4f5fd, #bafbe1);
+    border: 2px solid #e3e3e3;
+    border-radius: 1.5rem;
+    width: 80%;
+}
+.abox h1{
+   margin: 1rem 0;
+}
+.abox h2{
+    padding-bottom: 1rem;
+}
+.abox ol{
+    list-style: none;
+    font-family: sans-serif;
+    line-height: 1.5rem;
+}
+.abox h3{
+    text-align: left;
+    padding: 1rem;
+}
+.abox p{
+    text-align: left;
+    text-align: center;
+    padding: 0 0 1rem 2rem;
+    font-family: sans-serif;
+    line-height: 1.5rem;
+}
